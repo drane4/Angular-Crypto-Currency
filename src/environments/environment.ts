@@ -5,4 +5,13 @@
 
 export const environment = {
   production: false
+ /*  firebase: {
+    apiKey: "AIzaSyAK-tztDjG268wvvlLIJ6ga51OJFKOEy0w",
+    authDomain: "angularcryptocurrency.firebaseapp.com",
+    databaseURL: "https://angularcryptocurrency.firebaseio.com",
+    projectId: "angularcryptocurrency",
+    storageBucket: "angularcryptocurrency.appspot.com",
+    messagingSenderId: "88780558518"
+
+  } */
 };
